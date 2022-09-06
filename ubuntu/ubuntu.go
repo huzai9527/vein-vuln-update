@@ -44,6 +44,8 @@ var (
 	}
 )
 
+
+
 type Vulnerability struct {
 	PublicDateAtUSN   time.Time
 	CRD               time.Time
