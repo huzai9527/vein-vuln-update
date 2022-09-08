@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/aquasecurity/vuln-list-update/utils"
+	"github.com/huzai9527/vein-vuln-update/utils"
 	"golang.org/x/xerrors"
 )
 

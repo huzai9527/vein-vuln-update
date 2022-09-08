@@ -2,7 +2,7 @@ package kevc
 
 import (
 	"encoding/json"
-	"github.com/aquasecurity/vuln-list-update/utils"
+	"github.com/huzai9527/vein-vuln-update/utils"
 	"github.com/cheggaaa/pb"
 	"golang.org/x/xerrors"
 	"log"

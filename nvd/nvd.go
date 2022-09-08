@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/aquasecurity/vuln-list-update/utils"
+	"github.com/huzai9527/vein-vuln-update/utils"
 	jsonpointer "github.com/mattn/go-jsonpointer"
 	"golang.org/x/xerrors"
 	pb "gopkg.in/cheggaaa/pb.v1"

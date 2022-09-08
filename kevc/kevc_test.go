@@ -1,7 +1,7 @@
 package kevc_test
 
 import (
-	"github.com/aquasecurity/vuln-list-update/kevc"
+	"github.com/huzai9527/vein-vuln-update/kevc"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"net/http"

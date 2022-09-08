@@ -10,7 +10,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	vulndb "github.com/aquasecurity/vuln-list-update/go-vulndb"
+	vulndb "github.com/huzai9527/vein-vuln-update/go-vulndb"
 )
 
 func TestVulnDB_Update(t *testing.T) {

@@ -13,7 +13,7 @@ import (
 	"path/filepath"
 	"sort"
 
-	"github.com/aquasecurity/vuln-list-update/utils"
+	"github.com/huzai9527/vein-vuln-update/utils"
 	"golang.org/x/net/html/charset"
 	"golang.org/x/xerrors"
 	"gopkg.in/cheggaaa/pb.v1"

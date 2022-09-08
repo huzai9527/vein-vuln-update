@@ -1,4 +1,4 @@
-module github.com/aquasecurity/vuln-list-update
+module github.com/huzai9527/vein-vuln-update
 
 go 1.18
 

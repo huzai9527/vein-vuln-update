@@ -1,7 +1,7 @@
 package arch_test
 
 import (
-	"github.com/aquasecurity/vuln-list-update/arch"
+	"github.com/huzai9527/vein-vuln-update/arch"
 	"io"
 	"net/http"
 	"net/http/httptest"
